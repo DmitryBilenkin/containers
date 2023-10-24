@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698141672738" clover="3.2.0">
+  <project timestamp="1698141672738" name="All files">
+    <metrics statements="57" coveredstatements="47" conditionals="13" coveredconditionals="9" methods="11" coveredmethods="11" elements="81" coveredelements="67" complexity="0" loc="57" ncloc="57" packages="2" files="8" classes="8"/>
+    <package name="js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="errorRepositiry.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/errorRepositiry.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="js.characters">
+      <metrics statements="53" coveredstatements="43" conditionals="11" coveredconditionals="7" methods="9" coveredmethods="9"/>
+      <file name="bowerman.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/bowerman.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="character.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/character.js">
+        <metrics statements="29" coveredstatements="19" conditionals="11" coveredconditionals="7" methods="3" coveredmethods="3"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="7" count="13" type="stmt"/>
+        <line num="8" count="13" type="stmt"/>
+        <line num="18" count="13" type="cond" truecount="4" falsecount="1"/>
+        <line num="19" count="13" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="13" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="13" type="stmt"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="31" count="13" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="54" count="6" type="stmt"/>
+        <line num="55" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="6" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+      </file>
+      <file name="daemon.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/daemon.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="magician.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/magician.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="swordsman.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/swordsman.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="undead.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/undead.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="zombie.js" path="/Users/a/Desktop/Нетология/Продвинутый js/containers/src/js/characters/zombie.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
